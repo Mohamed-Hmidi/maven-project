@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <p style="color:blue;"><center>Welcome to our new Maven web application </center></p>
+    <h1 style="color:blue;"><center>Welcome to our new Maven web application </center></h1>
     <link rel="stylesheet" href="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png">
 
     <style>
