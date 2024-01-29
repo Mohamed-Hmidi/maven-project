@@ -9,7 +9,7 @@
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to our new Maven web Application </h1>
       <h1> Starting Devops Career with our first project </h1>
-      <img src="w3schools.jpg"
+      <img src="https://www.istockphoto.com/photo/devops-software-development-operations-programmer-administration-system-life-cycle-gm1415511573-463855207?phrase=devops&searchscope=image%2Cfilm"
            class="img-responsive center-block" style=(width: 300px)/>
       <h1 class="text-center">DEVOPS ENGINEER </h1>
       <h2 class="text-center">GO AHEAD </h2>
