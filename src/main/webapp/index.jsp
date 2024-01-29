@@ -12,7 +12,7 @@
 </head>
 <body>
   <div class="jumbotron" style="background-color:white">
-     <h1 class="text-center">Welcome to our new Maven web Application </h1>
+     <br>
       <h1> Starting Devops Career with our first project </h1>
 
       <img src=""/img/devops_approach.jpg"" alt="DevopsCulture"
