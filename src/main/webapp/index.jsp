@@ -15,9 +15,9 @@
      <br>
       <h1> Starting Devops Career with our first project </h1>
 
-      <img src=""/img/devops_approach.jpg"" alt="DevopsCulture"
+      <!-- <img src=""/img/devops_approach.jpg"" alt="DevopsCulture"
 
-               class="img-responsive center-block" style=(width: 300px)/>
+               class="img-responsive center-block" style=(width: 300px)/> -->
 
       <h1 style="font-family:verdana;">DEVOPS ENGINEERING TEAM</h1>
       <h2 style="color:red;">GO AHEAD </h2>
